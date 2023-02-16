@@ -2,10 +2,10 @@
 /**
  *main-print "programing is like building a multiligual puzzel"
  *
- *return o
+ *return 0.
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	return(0);
 }
