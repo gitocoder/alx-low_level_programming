@@ -2,7 +2,7 @@
 /**
  *main-print "programing is like building a multiligual puzzel"
  *
- *return 0.
+ *return 0	.
  */
 int main(void)
 {
